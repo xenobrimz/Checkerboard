@@ -1,0 +1,17 @@
+*{
+    margin: 0px auto;
+    padding: 10px;
+}
+
+#wrapper{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.color1{
+    background-color: rgb(255, 0, 0);
+}
+.color2{
+    background-color: rgb(0, 0, 0);
+}
